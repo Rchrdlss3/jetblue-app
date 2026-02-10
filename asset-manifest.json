@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/jetblue-app/static/css/main.6cad11fd.css",
-    "main.js": "/jetblue-app/static/js/main.a9d3e5e7.js",
+    "main.js": "/jetblue-app/static/js/main.59787352.js",
     "static/js/2.efa32fe1.chunk.js": "/jetblue-app/static/js/2.efa32fe1.chunk.js",
-    "static/js/779.234915c3.chunk.js": "/jetblue-app/static/js/779.234915c3.chunk.js",
+    "static/js/779.1f693e5f.chunk.js": "/jetblue-app/static/js/779.1f693e5f.chunk.js",
     "static/media/jetblueimg.jpg": "/jetblue-app/static/media/jetblueimg.7892dcc41fbbde6b5bc2.jpg",
     "index.html": "/jetblue-app/index.html",
     "main.6cad11fd.css.map": "/jetblue-app/static/css/main.6cad11fd.css.map",
-    "main.a9d3e5e7.js.map": "/jetblue-app/static/js/main.a9d3e5e7.js.map",
+    "main.59787352.js.map": "/jetblue-app/static/js/main.59787352.js.map",
     "2.efa32fe1.chunk.js.map": "/jetblue-app/static/js/2.efa32fe1.chunk.js.map",
-    "779.234915c3.chunk.js.map": "/jetblue-app/static/js/779.234915c3.chunk.js.map"
+    "779.1f693e5f.chunk.js.map": "/jetblue-app/static/js/779.1f693e5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cad11fd.css",
-    "static/js/main.a9d3e5e7.js"
+    "static/js/main.59787352.js"
   ]
 }
