@@ -38,7 +38,7 @@ export const WeatherSearchComponent = ({setDays,location,setLocation,getForecast
         }}
         onKeyDown={(e) => {
             if (e.key === "Enter" && location) {
-                locationRef.current = location
+                locationRef.current = e.currentTarget.value
                 getForecastCB?.()
             }
         }}
